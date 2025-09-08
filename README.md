@@ -16,10 +16,10 @@ e.g. `gcc -g exercise1.c -o exercise1` or `gcc -g -fsanitize=address exercise1.c
 ## Links to tools and resources
 
 ### gdb
-[gdb release page](https://sourceware.org/gdb/)
-[gdb cheat sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
-[gdb ref card](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)
-[gdb tutorial](https://www.geeksforgeeks.org/c/gdb-step-by-step-introduction/)
+- [gdb release page](https://sourceware.org/gdb/)
+- [gdb cheat sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+- [gdb ref card](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)
+- [gdb tutorial](https://www.geeksforgeeks.org/c/gdb-step-by-step-introduction/)
 
 ### pdb
 [pdb docs](https://docs.python.org/3/library/pdb.html#module-pdb)
