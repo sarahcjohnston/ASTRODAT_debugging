@@ -1,4 +1,4 @@
-# ASTRODAT_debugging
+# ASTRODAT Debugging
 
 These are some simple resources designed to go along with the ASTRODAT 'Debugging Your Code' session.
 
